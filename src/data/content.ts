@@ -7,9 +7,9 @@
  */
 
 export const profile = {
-  name: "Prithish Raj",
+  name: "Prithish Raj T",
   firstName: "Prithish",
-  lastName: "Raj",
+  lastName: "Raj T",
   title: "Aspiring AI/ML Engineer & Data Science Enthusiast",
   location: "Vellore, Tamil Nadu, India",
   headline: ["Exploring Intelligence.", "Engineering Possibilities."],
@@ -25,7 +25,7 @@ export const profile = {
    * While empty, an elegant reserved frame is shown. No placeholder person is ever used.
    */
   photo: "./Mine.jpg",
-  photoAlt: "Portrait of Prithish Raj",
+  photoAlt: "Portrait of Prithish Raj T",
   /**
    * CONTACT FORM — submissions are sent to your email through FormSubmit (formsubmit.co).
    * The first submission triggers a one-time activation email to the address above.
@@ -286,7 +286,7 @@ export const projects = [
       "Final project integration",
     ],
     teammate: "Jagan contributed to presentation preparation and testing.",
-    team: ["Prithish Raj", "Jagan"],
+    team: ["Prithish Raj T", "Jagan"],
     story: [
       {
         kicker: "Chapter 01",
@@ -367,7 +367,7 @@ export const achievements = [
     track: "AI for Digital Safety and Online Scam Detection",
     project: "BFX Vesper",
     teamSize: "2 members",
-    team: "Prithish Raj & Jagan",
+    team: "Prithish Raj T & Jagan",
     role: "Project Lead & Primary Developer",
     funnel: [
       { label: "Participating teams", value: "~50" },

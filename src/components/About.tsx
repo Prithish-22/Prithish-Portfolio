@@ -22,7 +22,7 @@ export default function About() {
           label="About"
           title={
             <>
-              <SplitWords text="Hello, I'm" /> <em className="text-vermilion"><SplitWords text="Prithish Raj." delay={0.15} /></em>
+              <SplitWords text="Hello, I'm" /> <em className="text-vermilion"><SplitWords text="Prithish Raj T." delay={0.15} /></em>
             </>
           }
         />

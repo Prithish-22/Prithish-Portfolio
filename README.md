@@ -1,4 +1,4 @@
-# Prithish Raj — AI/ML & Data Science Portfolio
+# Prithish Raj T — AI/ML & Data Science Portfolio
 
 Interactive, premium 3D portfolio showcasing work at the intersection of Artificial Intelligence, Machine Learning, and Data Science.
 
@@ -34,5 +34,5 @@ npm run build
 ## 📬 Contact
 
 - **Email:** prithish483@gmail.com
-- **LinkedIn:** [Prithish Raj](https://www.linkedin.com/in/prithish-raj-9bb884349/)
+- **LinkedIn:** [Prithish Raj T](https://www.linkedin.com/in/prithish-raj-9bb884349/)
 - **GitHub:** [@Prithish-22](https://github.com/Prithish-22)

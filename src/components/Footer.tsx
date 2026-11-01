@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="mx-auto max-w-[1400px] px-5 pt-16 md:px-10">
         <div className="grid gap-10 md:grid-cols-12">
           <div className="md:col-span-5">
-            <p className="display text-3xl font-light italic">Prithish Raj</p>
+            <p className="display text-3xl font-light italic">Prithish Raj T</p>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-paper/55">
               Aspiring AI/ML Engineer & Data Science Enthusiast. Exploring intelligence, engineering possibilities.
             </p>
@@ -48,11 +48,11 @@ export default function Footer() {
           className="display pointer-events-none mt-14 select-none whitespace-nowrap text-center text-[clamp(3.5rem,17vw,16rem)] font-light uppercase leading-[0.8] text-paper/[0.06]"
           aria-hidden
         >
-          Prithish Raj
+          Prithish Raj T
         </p>
 
         <div className="flex flex-col items-center justify-between gap-3 border-t border-paper/10 py-6 text-xs text-paper/40 sm:flex-row">
-          <span>© {new Date().getFullYear()} Prithish Raj. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} Prithish Raj T. All rights reserved.</span>
           <a href="#home" className="eyebrow text-[0.58rem] hover:text-paper">
             Back to top ↑
           </a>

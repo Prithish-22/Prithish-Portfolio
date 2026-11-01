@@ -34,7 +34,7 @@ export default function Intro({ done, onDone }: { done: boolean; onDone: () => v
               animate={{ y: 0 }}
               transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1], delay: 0.15 }}
             >
-              Prithish <span className="italic text-vermilion">Raj</span>
+              Prithish <span className="italic text-vermilion">Raj T</span>
             </motion.p>
           </div>
           <div className="mt-8 h-px w-48 overflow-hidden bg-paper/15">
