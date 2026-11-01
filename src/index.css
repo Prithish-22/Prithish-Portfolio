@@ -84,11 +84,9 @@ button, a {
   transition: background-size 0.35s ease;
 }
 .link-underline:hover,
-.link-underline
-}
-
-:focus-visible {
+.link-underline:focus-visible {
   background-size: 100% 1px;
+}
 }
 
 :focus-visible {
