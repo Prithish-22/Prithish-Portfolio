@@ -144,11 +144,17 @@ export function Button({
 
 /* ───────── Photograph frame (placeholder until photo is provided) ───────── */
 export function PhotoFrame({ className, label = true }: { className?: string; label?: boolean }) {
+  const photoSrc = profile.photo
+    ? profile.photo.startsWith("http") || profile.photo.startsWith("data:")
+      ? profile.photo
+      : `${import.meta.env.BASE_URL.replace(/\/+$/, "")}/${profile.photo.replace(/^\.?\/+/, "")}`
+    : "";
+
   return (
     <div className={cn("relative overflow-hidden bg-forest-2", className)}>
-      {profile.photo ? (
+      {photoSrc ? (
         <img
-          src={profile.photo}
+          src={photoSrc}
           alt={profile.photoAlt}
           className="h-full w-full object-cover"
           loading="eager"

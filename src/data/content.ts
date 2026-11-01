@@ -24,7 +24,7 @@ export const profile = {
    * and set the path below: photo: "/prithish.jpg"
    * While empty, an elegant reserved frame is shown. No placeholder person is ever used.
    */
-  photo: "/Mine.jpg",
+  photo: "./Mine.jpg",
   photoAlt: "Portrait of Prithish Raj",
   /**
    * CONTACT FORM — submissions are sent to your email through FormSubmit (formsubmit.co).
